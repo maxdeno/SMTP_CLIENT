@@ -26,3 +26,11 @@ message to the mail server.
 The smtp client connects with the smtp server, performing authentication to enhance the connection. Once the connection is established, the server and client perform a handshake i.e EHLO, MAIL TO, RCPT TO commands. After the handshaking process is completed, the client sends the email body to the server and the server forwards it to the recipient's email address.
 
 
+
+Powershell:
+![Image](https://github.com/user-attachments/assets/49e932bf-f6db-4511-8037-03cba0d21c89)
+
+
+
+
+
